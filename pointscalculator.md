@@ -3,6 +3,7 @@ Weight Watchers Points Calculator
 author: Brian Carlton
 date: 19 June 2015
 transition: zoom
+[GitHub repo](https://github.com/bcarlton/devdataprod-015)
 
 What does it do?
 ========================================================
@@ -15,7 +16,7 @@ What does it do?
 Formula demo
 ========================================================
 left: 30%
-Here is the the point value for a serving of some Light Butter Popcorn from a US label.
+Here is the point value for a serving of some Light Butter Popcorn from a US label.
 
 ***
 
